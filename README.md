@@ -190,7 +190,7 @@ Default admin login (from `db.properties`):
 ## Project structure
 
 ```
-imran's_project/
+sumit's_project/
 ├── pom.xml
 ├── README.md
 ├── database/tangail_quiz_db.sql
